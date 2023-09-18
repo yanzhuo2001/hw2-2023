@@ -66,6 +66,11 @@ div {
   color: #C4C4C4; /* Fix color contrast */
 }
 
+/* 11a. Style h1 and h2 within the blue div */
+.blue h2 {
+  color: #C4C4C4;
+}
+
 /* 12. Style the yellow div */
 .yellow {
   background-color: #FFFF00;
