@@ -53,8 +53,7 @@ div {
   text-align: right;
   margin-left: 50px;
   border-style: solid;
-  border-bottom-width: 2px;
-  border-left-width: 5px;
+  border-width:0px 0px 2px 5px;
 }
 
 /* 11. Style the blue div */
@@ -78,8 +77,7 @@ div {
   text-align: right;
   margin-left: 50px;
   border-style: solid;
-  border-bottom-width: 2px;
-  border-left-width: 5px;
+  border-width:0px 0px 2px 5px;
   color: #707070; /* Fix color contrast */
 }
 
@@ -89,8 +87,7 @@ div {
   text-align: left;
   margin-right: 50px;
   border-style: solid;
-  border-right-width: 5px solid;
-  border-top-width: 2px solid;
+  border-width:2px 5px 0px 0px;
 }
 
 /* 14. Style the default footer elements */
