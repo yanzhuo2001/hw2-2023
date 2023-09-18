@@ -29,7 +29,7 @@ p {
 img {
   width: 250px;
   display: block;
-  margin: 0 auto;
+  margin: auto;
   border: 10px dashed #FFFFFF;
 }
 
